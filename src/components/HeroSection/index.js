@@ -10,7 +10,8 @@ import
    HeroP,
    HeroBtnWrapper,
    ArrowForward,
-   ArrowRight
+   ArrowRight,
+   
   } from './HeroElements';
 
 const HeroSection = () => {

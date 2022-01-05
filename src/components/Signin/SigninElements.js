@@ -11,11 +11,7 @@ right: 0;
 top: 0;
 z-index: 0;
 overflow: hidden;
-background: linear-gradient(
-  108deg,
-  rgba(1, 147, 86, 1) 0%,
-  rgba(10, 201, 122, 1) 100%
-);
+background: #88CAEF;
 `;
 
 
@@ -57,7 +53,7 @@ justify-content: center;
 `;
 
 export const Form = styled.form`
-background: #010101;
+background: #fff;
 max-width: 400px;
 height: auto;
 width: 100%;
@@ -66,7 +62,7 @@ display: grid;
 margin: 0 auto;
 padding: 80px 32px;
 border-radius: 4px;
-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+// box-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
 
 @media screen and (max-width: 400px) {
   padding: 32px 32px;
@@ -75,7 +71,7 @@ box-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
 
 export const FormH1 = styled.h1`
  margin-bottom: 40px;
-  color: #fff;
+  color: #057DBD;
   font-size: 20px;
   font-weight: 400;
   text-align: center;
@@ -84,22 +80,22 @@ export const FormH1 = styled.h1`
 export const FormLabel = styled.label`
 margin-bottom: 8px;
 font-size: 14px;
-color: #fff;
+color: #057DBD;
 `;
 
 export const FormInput = styled.input`
 padding: 16px 16px;
 margin-bottom: 32px;
-border: none;
+border: 2px #057DBD solid;
 border-radius: 4px;
 `;
 
 export const FormButton = styled.button`
-background: #01bf71;
+background:#88CAEF;
 padding: 16px 0;
 border: none;
 border-radius: 4px;
-color: #fff;
+color:#fff;
 font-size: 20px;
 cursor: pointer;
 `;

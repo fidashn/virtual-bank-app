@@ -8,6 +8,8 @@ export const ServicesContainer = styled.div`
   align-items: center;
   background: #010606;
 
+
+
   @media screen and (max-width: 768px) {
     height: 1100px;
   }
@@ -25,6 +27,12 @@ export const ServicesWrapper = styled.div`
   align-items: center;
   grid-gap: 16px;
   padding: 0 50px;
+
+  
+  &.active {
+    border-bottom: 3px solid #88CAEF;
+  }
+
 
   @media screen and (max-width: 1000px) {
     grid-template-columns: 1fr 1fr;
