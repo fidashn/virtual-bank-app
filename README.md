@@ -7,4 +7,7 @@
 # Project Build 
 
 ![Home](ReadMeImgs/vir-bank1.png)
+![HeroSection](ReadMeImgs/vir-bank2.png)
+![InfoSection](ReadMeImgs/vir-bank3.png)
+![ServicesSection](ReadMeImgs/vir-bank4.png)
 
