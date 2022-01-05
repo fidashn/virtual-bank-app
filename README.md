@@ -1,5 +1,5 @@
-# Virtual Banking Website Service.
-## This is a project that contains ReactJs as the platform, firebase solution as a `user-info` tracking.
+# AppleSeeds Bootcamp Mid-Project:
+## This is a project of Virtual Banking Website Service. that contains ReactJs as the platform, firebase solution as a `user-info` tracking.
 
 
 
